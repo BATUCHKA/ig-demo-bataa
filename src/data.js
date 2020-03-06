@@ -19,6 +19,7 @@ const stories = [
         name: 'munkhzulnee',
         storyUrls: ['https://instagram.fuln1-2.fna.fbcdn.net/v/t51.12442-15/e35/83128552_167627667802148_1259550801925625135_n.jpg?_nc_ht=instagram.fuln1-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=tu-NNw1ruqoAX8KaNF9&oh=046ce4051bdd29d7c3f0ebc7b9cfec00&oe=5E31A507',
                     'https://instagram.fuln1-2.fna.fbcdn.net/v/t51.12442-15/e35/83128552_167627667802148_1259550801925625135_n.jpg?_nc_ht=instagram.fuln1-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=tu-NNw1ruqoAX8KaNF9&oh=046ce4051bdd29d7c3f0ebc7b9cfec00&oe=5E31A507']
+                    
     },
     {
         avatarUrl: 'https://instagram.fuln2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/75225416_2498530840417273_4719887694996439040_n.jpg?_nc_ht=instagram.fuln2-1.fna.fbcdn.net&_nc_ohc=LuphGcIgn10AX_gnNqU&oh=9b5d5763bb8f78af4502f3c7ad155c4e&oe=5EB85D0A',
