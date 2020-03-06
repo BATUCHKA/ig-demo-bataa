@@ -1,4 +1,6 @@
 {
+
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "name": "ig-demo-fb",
   "version": "0.1.0",
   "private": true,
