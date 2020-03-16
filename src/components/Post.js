@@ -61,6 +61,12 @@ const Post = ({ avatarUrl, postedUser, imgUrls }) => {
                 </div>
                 <p>Liked by <b>randanaprayuda</b> and <b>others</b></p>
                 <span>18 HOURS AGO</span>
+
+
+                <div className="add">
+                    <input placeholder="Add a comment..." id="first_name" type="text" class="validate" style={{ borderBottom: 0, border: 'none' }} />
+                    <a className="btn pb white z-depth-0 waves-effect waves-light blue-text">Post</a>
+                </div>
             </div>
 
 
@@ -69,6 +75,9 @@ const Post = ({ avatarUrl, postedUser, imgUrls }) => {
                     <p>Report Inappropriate</p>
                     <p>Unfollow</p>
                     <p>Go to post</p>
+                    <p>Share</p>
+                    <p>Copy Link</p>
+                    <p>Embed</p>
                     <p>Cancel</p>
                 </div>
             </div>
